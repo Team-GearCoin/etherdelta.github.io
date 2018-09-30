@@ -1,1 +1,1 @@
-# EtherDelta
+# EtherDelta fork for GearCoin
