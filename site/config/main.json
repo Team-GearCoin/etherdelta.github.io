@@ -11,7 +11,7 @@
   ],
   "ethTestnet": false,
   "ethChainId": 1,
-  "ethProvider": "http://localhost:8545",
+  "ethProvider": "https://mainnet.infura.io/v3/11ec51334c174a74b9bc8bba8fed3ccc",
   "ethGasPrice": 4000000000,
   "ethAddr": "0x0000000000000000000000000000000000000000",
   "ethAddrPrivateKey": "",
@@ -955,6 +955,7 @@
     {"addr":"0x1a95b271b0535d15fa49932daba31ba612b52946","name":"MNE","decimals":8},
     {"addr":"0x1063ce524265d5a3a624f4914acd573dd89ce988","name":"AIX","decimals":18},
     {"addr":"0xc72fe8e3dd5bef0f9f31f259399f301272ef2a2d","name":"INSTAR","decimals":18},
+    {"addr":"0xcaa83387b0944F069a3D8C7f3AEF3631910BaD32","name":"GC","decimals":18},
     {"addr":"0x7dc4f41294697a7903c4027f6ac528c5d14cd7eb","name":"RMC","decimals":8}
   ],
   "defaultPair": {
